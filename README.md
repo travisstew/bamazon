@@ -12,4 +12,4 @@ On the command line, in the package root directory, run the following commands t
   2. npm install mysql -save
   * make sure to have mysql downloaded on your machine
 
-  ![alt text](img/bamazon.mp4)
+  ![alt text](img/Oct-29-2019 22-44-03.gif)
